@@ -1,11 +1,11 @@
 const text = document.getElementById("texto");
 
 const array = [
-	"Los amo a todos, por fin navidad",
-	"siguiendo las enseñanzas de mi besti",
-	"hoy debe ser un día sin ganas de morir",
-	"ojalá los llenen de regalos, besos en la cola",
-	"el que toque el arbol de los gatos es joto :)"
+	"Espero tengas un gran día lleno de regalos",
+	"No olvides mi regalo porque lo esperé todo el mes",
+	"Gracias por seguir siendo tan linda conmigo",
+	"Te seguiré molestando por mucho tiempo más",
+	"Así que preparate pinche morra :)"
 ];
 
 let contador = 0;
