@@ -67,6 +67,12 @@ h2 {
     z-index: 3;
 }
 
+audio {
+    position: absolute;
+    z-index: 3;
+    bottom: 2%;
+}
+
 .show {
     display: flex;
 }
